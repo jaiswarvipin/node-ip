@@ -1,7 +1,7 @@
 # IP  
 [![](https://badge.fury.io/js/ip.svg)](https://www.npmjs.com/package/ip)  
 
-IP address utilities for node.js
+IP address utilities for node.js (new version 1.1.6)
 
 ## Installation
 
